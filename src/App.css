@@ -4,3 +4,11 @@
   padding: 2rem;
   text-align: center;
 }
+
+.slot-machine {
+  font-size: 3rem;
+}
+
+.result {
+  height: 100px;
+}
