@@ -1,6 +1,14 @@
-# slot-machine
-Simple slot  machine app made in React with Vite
+### slot-machine
 
-Link to the page: https://crofrank.github.io/slot-machine/
+My first app using React
 
-Feel free to contribute to my code and lets make it better together.
+Hosted on github, you can visit [here](https://crofrank.github.io/slot-machine/)
+
+# About app
+
+Simple slot machine where you need to get 3 of a same kind in order to win.
+
+# I used:
+
+- Vite for a build tool
+- React framework
