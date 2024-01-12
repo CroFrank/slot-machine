@@ -15,9 +15,9 @@ Simple slot machine where you need to get 3 of a same kind in order to win.
 
 ### Try it out
 
-git clone
-npm i
-npm run dev
+- git clone
+- npm i
+- npm run dev
 
 ### Contributing
 
