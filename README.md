@@ -6,7 +6,7 @@ Hosted on github, you can visit [here](https://crofrank.github.io/slot-machine/)
 
 ### About app
 
-Simple slot machine where you need to get 3 of a same kind in order to win.
+Simple slot machine game where you need to get 3 of a same kind in order to win.
 
 ### I used:
 
